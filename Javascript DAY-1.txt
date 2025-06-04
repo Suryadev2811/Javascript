@@ -4,7 +4,7 @@ DAY-1
 
 *     adv                            disadv
   Flexible                 |    can lead to bugs
-  Faster to write code     |    harder to debug large codebases
+  Faster to write code     |    harder to debug      large codebases
 
 
 * it is client and server sides based language.
