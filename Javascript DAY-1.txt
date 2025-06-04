@@ -1,0 +1,38 @@
+DAY-1 
+* javascript is a programming language used primarily to make web pages iteractive.it is      loosely typed or dynamically typed.
+   loosely typed means you dont have to declare the data type of a variable. it automatically determines the type based on the value assigned 
+
+*     adv                            disadv
+  Flexible                 |    can lead to bugs
+  Faster to write code     |    harder to debug large codebases
+
+
+* it is client and server sides based language.
+
+* javascript has been significant since it was first created in year 1995 by brendan eich
+
+* originally called mocha, then livescript and finally javascript
+
+* by default it is synchronous , but using some special features it becomes asynchronous (await)
+
+versions:
+
+1.) Es1-Es5 :- bsic syntax, domain manipulations, events and functions (97-99)
+
+2.) Es5     :-big milestone. array.functions, map, filter let const arrow functions classes and modules   
+
+3.) Es6     :- the big update exponential operator released
+
+4.) Es7-Es13:- small yearly updates
+
+People use ES6 mostly because it introduced modern, cleaner, and more powerful features that make JavaScript easier to write, read, and maintain.
+
+similar with css... we can write javascript in: inline,internal,external 
+
+most preferred is external.. as it is reusable
+                                            
+
+
+
+
+
