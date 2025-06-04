@@ -1,5 +1,5 @@
 DAY-1 
-* javascript is a programming language used primarily to make web pages iteractive.it is      loosely typed or dynamically typed.
+* javascript is a programming language used primarily to make web pages iteractive.it is loosely typed or dynamically typed.
    loosely typed means you dont have to declare the data type of a variable. it automatically determines the type based on the value assigned 
 
 *     adv                            disadv
